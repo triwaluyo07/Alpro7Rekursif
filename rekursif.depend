@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525230306 source:d:\alpro 8\rekursif\main.c
+	"header.h"
+
+1525228720 d:\alpro 8\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1525230302 source:d:\alpro 8\rekursif\fungsi.c
+	"header.h"
+
+1525230408 source:e:\alpro\alpro7\rekursif\main.c
+	"header.h"
+
+1525228722 e:\alpro\alpro7\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1525350608 source:e:\alpro\alpro7\rekursif\fungsi.c
+	"header.h"
+
